@@ -2,8 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Hello World
+title: Say Goodbye to the Past
 description: 
 ---
-
-All the best for the long journey all over the world!
+Just because you miss someone, 
+does not mean you need them back in your life. 
+Missing is just a part of moving on.

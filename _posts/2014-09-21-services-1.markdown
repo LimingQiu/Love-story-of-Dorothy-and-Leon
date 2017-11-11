@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Overseas
-description: |
+title: Hello World
+description: 
 ---
- # A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+All the best for your long distance journey!

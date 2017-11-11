@@ -2,9 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Say Goodbye to the Past
+title: Embrace the Future (Coming Soon)
 description: |
 ---
-Just because you miss someone, 
-does not mean you need them back in your life. 
-Missing is just a part of moving on.
+Say hello to the world in the near future.

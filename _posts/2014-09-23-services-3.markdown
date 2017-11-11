@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Say goodbye to the past
+title: Say Goodbye to the Past
 description: |
 ---
 Just because you miss someone, 

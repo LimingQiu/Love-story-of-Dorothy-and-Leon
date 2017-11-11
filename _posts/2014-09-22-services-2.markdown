@@ -2,8 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: Best
-description: |
+title: Cherish the Best Memories at the moment
+description: 
 ---
-
+Life is a collection of moments and let us make the future amazing.
 

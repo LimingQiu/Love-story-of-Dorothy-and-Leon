@@ -3,7 +3,7 @@ layout: default
 img: dog.png
 category: Services
 title: Cherish the Best Memories at the moment
-description: 
+description:
 ---
-Life is a collection of moments and let us make the future amazing.
+Happy times or bad times always come and go. However, the memories should be cherished and stay forever.
 

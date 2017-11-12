@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Cherish the Best Memories at the moment
+title: Cherish the Best Memories at the Moment
 description:
 ---
 Happy times or bad times always come and go. However, the memories could be cherished and stay forever.

@@ -2,9 +2,11 @@
 layout: default
 img: phones.png
 category: Services
-title: Embrace the Future (Coming Soon)
+title: Embrace the Future
 description: |
 ---
 People always say that life is a collection of moments. 
 
 Let us make the future amazing together and we can start from here if you say YES. 
+
+More precious memories coming soon.

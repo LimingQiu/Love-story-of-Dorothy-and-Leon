@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: qiqi.png
 category: Services
 title: Why U R so cute?
 description:

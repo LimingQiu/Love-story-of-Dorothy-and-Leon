@@ -5,6 +5,8 @@ category: Services
 title: Why R U so lovely?
 description:
 ---
-You are so lovely, especially when we were talk on the wechat. You always recall and resend the message carefully when you try to send a sentence but with one or more typos by mistake.
+You are so lovely, especially when we were talk on the wechat. 
+
+Sometimes you recall and resend the message carefully when you try to send a sentence but with one or more typos by mistake.
 
 It always can make me smile :)

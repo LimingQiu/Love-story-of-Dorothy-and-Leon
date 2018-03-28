@@ -2,10 +2,10 @@
 layout: default
 img: qiqi.png
 category: Services
-title: Why are you so lovely?
+title: Why Are You So Lovely?
 description:
 ---
-You are so lovely, especially when we were talking on the wechat.
+You are so lovely, especially when we were talking in the Wechat.
 
 Sometimes you surprise me with your countless funny stickers or emojis.
 
